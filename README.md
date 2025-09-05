@@ -1,2 +1,2 @@
 # file-encryption-decrpytion-
-choose a key to encrypt and let your date be encrypted
+choose a key to encrypt and let your data be encrypted
